@@ -3,3 +3,5 @@ This is a test file.
 Creating a new branch in git is so quick and simple.
 
 branch management policy.
+
+fixed the bug.
