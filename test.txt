@@ -3,3 +3,9 @@ This is a test file.
 Creating a new branch in git is so quick and simple.
 
 branch management policy.
+
+stash function.
+
+coding .... but not complete.
+
+i need to resolve the bug that pm found.
